@@ -1,0 +1,14 @@
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\bin\Debug\net8.0\ParkingSystem.exe
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\bin\Debug\net8.0\ParkingSystem.deps.json
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\bin\Debug\net8.0\ParkingSystem.runtimeconfig.json
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\bin\Debug\net8.0\ParkingSystem.dll
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\bin\Debug\net8.0\ParkingSystem.pdb
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.AssemblyInfoInputs.cache
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.AssemblyInfo.cs
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.csproj.CoreCompileInputs.cache
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.dll
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\refint\ParkingSystem.dll
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.pdb
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ParkingSystem.genruntimeconfig.cache
+C:\Users\littl\OneDrive\Documents\Enigma Camp 2.0\prepare-job-placement\test\test-ntt-digital-business-2023\ParkingSystem\obj\Debug\net8.0\ref\ParkingSystem.dll
